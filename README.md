@@ -1,5 +1,6 @@
 # 정부24 인공지능 서비스: 미나(MINA)
 
+2025 동계 SCI 부트캠프 수상작
 ASR (Whisper) → RAG (ThreeStepRAG) → TTS (Qwen3-TTS) 통합 파이프라인
 
 ## 📋 시스템 구성
